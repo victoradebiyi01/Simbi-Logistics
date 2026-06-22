@@ -29,7 +29,7 @@ This report analyze the financial performance of Simbi Logistics. The dataset us
 5. Removing duplicates
 
 
-### Data Analysis and Insights
+### Analysis and Findings
 
 1.	(Top 10) Most Profitable Days
     - Findings; 14th February, 2025.
